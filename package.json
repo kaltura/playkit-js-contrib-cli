@@ -16,6 +16,6 @@
     "lerna": "^3.13.1"
   },
   "dependencies": {
-    "preact": "^8.4.2"
+    "preact": "^8.5.3"
   }
 }
